@@ -18,33 +18,41 @@ Richert Wang
 Alon Albalak
 
 * TBD
+* https://ucsb.zoom.us/j/84636369573
 
 Lijuan Cheng
 
 * TBD
+* https://ucsb.zoom.us/j/84636369573
 
 Jacob Kozerawski
 
 * TBD
+* https://ucsb.zoom.us/j/84636369573
 
 Muqsit Nawaz
 
 * TBD
+* https://ucsb.zoom.us/j/84636369573
 
 # Learning Assistants
 
 Priyanka Banerjee
 
 * TBD
+* https://ucsb.zoom.us/j/84636369573
 
 Gautam Mundewadi
 
 * TBD
+* https://ucsb.zoom.us/j/84636369573
 
 Brice Redmond
 
 * TBD
+* https://ucsb.zoom.us/j/84636369573
 
 Erin Woo
 
 * TBD
+* https://ucsb.zoom.us/j/84636369573
