@@ -17,42 +17,42 @@ Richert Wang
 
 Alon Albalak
 
-* TBD
+* Wednesday 4pm - 6pm
 * https://ucsb.zoom.us/j/84636369573
 
 Lijuan Cheng
 
-* TBD
+* Monday 9am - 10am, Tuesday 9am - 10am
 * https://ucsb.zoom.us/j/84636369573
 
 Jacob Kozerawski
 
-* TBD
+* Thursday 11am - 1pm
 * https://ucsb.zoom.us/j/84636369573
 
 Muqsit Nawaz
 
-* TBD
+* Friday 1pm - 3pm
 * https://ucsb.zoom.us/j/84636369573
 
 # Learning Assistants
 
 Priyanka Banerjee
 
-* TBD
+* Friday 3pm - 5pm
 * https://ucsb.zoom.us/j/84636369573
 
 Gautam Mundewadi
 
-* TBD
+* Thursday 1pm - 2pm, Friday 11:30am - 12:30pm
 * https://ucsb.zoom.us/j/84636369573
 
 Brice Redmond
 
-* TBD
+* Tuesday 5pm - 6pm, Thursday 4pm - 5pm
 * https://ucsb.zoom.us/j/84636369573
 
 Erin Woo
 
-* TBD
+* Wednesday 2pm - 4pm
 * https://ucsb.zoom.us/j/84636369573
