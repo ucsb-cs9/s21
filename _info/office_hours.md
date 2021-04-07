@@ -18,7 +18,7 @@ Richert Wang
 Alon Albalak
 
 * Lab Sections: 9am, 10am
-* Wednesday 4pm - 6pm
+* Wednesday 4:30pm - 6:30pm
 * https://ucsb.zoom.us/j/84636369573
 
 Lijuan Cheng
