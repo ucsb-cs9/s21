@@ -7,7 +7,7 @@ assigned: 2021-04-11 23:59:59.59-7
 due: 2021-04-18 23:59:59.59-7
 ---
 
-In this lab, we'll utilize some inheritance functionality and define various 2D shapes and its properties. You'll have the opportunity to practice:
+In this lab, we'll utilize some inheritance functionality and define various 2D shapes and its properties. You'll have the opportunity to practice: 
 
 * Defining a base class and creating an inheritance hierarchy
 * Defining derived classes and inheriting data from a base class
