@@ -31,7 +31,7 @@ Recorded Lecture: [4_6_21](https://drive.google.com/file/d/1rntjfMCBDIt8Q1s-KHNY
 
 * `count`, `append`, etc are all examples of **methods** that can be called on an object.
 * **Methods** are like functions but are associated with an object
-* In this case, Python already defined its own class called list that we can use, but sometimes we want to create our own specific objects for the applications we’re trying to build!
+* In this case, Python already defined its own class called `list` that we can use, but sometimes we want to create our own specific objects for the applications we’re trying to build!
 
 ## Student Class Example
 
@@ -63,6 +63,7 @@ s.printAttributes()
 
 * We can provide either default values or set values of the object when constructing it through the parameter list
 * In the example above, we can set an empty object without any initial attributes, which may cause an error when trying to use them
+* The constructor below will set `self.name` and `self.perm` to the value `None`, which doesn't require the set methods to set these fields in the object.
 
 ```
 def __init__(self):
