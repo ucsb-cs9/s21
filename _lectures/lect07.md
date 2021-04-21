@@ -5,7 +5,7 @@ ready: true
 lecture_date: 2021-04-20 14:00:00.00-7:00
 ---
 
-Recorded Lecture: [4_20_21]()
+Recorded Lecture: [4_20_21](https://drive.google.com/file/d/1uJgHn9Z1KGKUgXX-9PlSLmNshzYEw3_c/view?usp=sharing)
 
 # Recursion
 
