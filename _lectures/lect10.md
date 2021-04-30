@@ -5,7 +5,7 @@ ready: true
 lecture_date: 2021-04-29 14:00:00.00-7:00
 ---
 
-Recorded Lecture: [4_29_21](https://drive.google.com/file/d/1LkWpX9CtVGpQ-Yl2pEEtJFAmhsrz8y-q/view?usp=sharing)
+Recorded Lecture: [4_29_21](https://drive.google.com/file/d/1r9dfJVklplMWFsJkYASuly5dPwCpLNHM/view?usp=sharing)
 
 # Linked Lists
 
