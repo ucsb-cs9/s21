@@ -49,7 +49,7 @@ class Node:
 		self.data = newData
 
 	def setNext(self, newNext):
-        self.next = newNext
+		self.next = newNext
 
 class LinkedList:
 	def __init__(self):
