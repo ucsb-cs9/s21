@@ -5,7 +5,7 @@ ready: true
 lecture_date: 2021-06-01 14:00:00.00-7:00
 ---
 
-Recorded Lecture: [6_1_21](https://drive.google.com/file/d/1CedxZxn9Z2DxPaqG1eP7Thj3WBGI9sw_/view?usp=sharing)
+Recorded Lecture: [6-1-21](https://drive.google.com/file/d/1CedxZxn9Z2DxPaqG1eP7Thj3WBGI9sw_/view?usp=sharing)
 
 # BST Deletion Implementation
 ```
