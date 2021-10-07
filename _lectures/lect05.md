@@ -176,6 +176,9 @@ def getSound(self):
 
 ```
 # Cow.py
+
+from Animal import Animal
+
 class Cow(Animal):
     # Available method for the Cow Class 
     def setSound(self, sound):
