@@ -61,8 +61,8 @@ def biggestInt(a,b,c,d):
 ```
 
 Command to run pytest on testFile.py:
-* Navigate to the folder containing lecture.py and testFile.py
-* (On mac terminal): `python3 -m pytest temp_test.py`
+* Navigate to the folder containing `lecture.py` and `testFile.py`
+* (On mac terminal): `python3 -m pytest testFile.py`
 
 # Operator Overloading
 
