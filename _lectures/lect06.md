@@ -24,14 +24,14 @@ class Cow(Animal):
 	def getSound(self):
 		s = "Using Super class getSound method\n"
 		s += Animal.getSound() + "\n" # Uses Animal.getSound method
-		s += "Extending it with our own makeSound functionality" + "\n"
+		s += "Extending it with our own getSound functionality" + "\n"
 		s += "{}!!!".format(self.sound, self.sound)
 		return s
 
 # Output:
-# Using super class makeSound method
+# Using super class getSound method
 # I'm an Animal!!!
-# Extending it with our own makeSound functionality
+# Extending it with our own getSound functionality
 # Moo!!!
 ```
 
