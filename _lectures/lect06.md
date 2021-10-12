@@ -22,8 +22,8 @@ Recorded Lecture: [4_15_21](https://drive.google.com/file/d/14Lxfx3Hwzd-DM-V6B-0
 ```
 class Cow(Animal):
 	def getSound(self):
-		s = "Using Super class makeSound method\n"
-		s += Animal.getSound() + "\n" # Uses Animal.makeSound method
+		s = "Using Super class getSound method\n"
+		s += Animal.getSound() + "\n" # Uses Animal.getSound method
 		s += "Extending it with our own makeSound functionality" + "\n"
 		s += "{}!!!".format(self.sound, self.sound)
 		return s
