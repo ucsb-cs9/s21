@@ -45,7 +45,7 @@ class TreeNode:
 		self.parent = parent
 
 	def hasLeftChild(self):
-		return self.leftChild
+		return self.leftChild # Note: Python considers None as a False value
 
 	def hasRightChild(self):
 		return self.rightChild
